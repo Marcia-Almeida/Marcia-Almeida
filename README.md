@@ -1,7 +1,7 @@
 ## Hi guys 👋 !
 
 ## Hello world rsrs...
-![Snake animation](https://github.com/Marcia-Almeida/Marcia-Almeida/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **Marcia-Almeida/Marcia-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
